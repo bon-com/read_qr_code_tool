@@ -19,6 +19,4 @@ if decoded_objects:
 else:
     print("QRコードが見つかりませんでした。")
 
-# バッチファイル用操作
-input("\nEnterキーを押すと終了します")
 
